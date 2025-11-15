@@ -116,7 +116,7 @@ MySQL
 
 Import the cleaned CSV into your MySQL database.
 
-Run the SQL scripts provided (optional: link to .sql file).
+Run the SQL scripts provided .
 
 Power BI
 
